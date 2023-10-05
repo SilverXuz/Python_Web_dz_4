@@ -1,0 +1,18 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+url: https://test-stand.gb.ru/gateway/login
+address_api: https://test-stand.gb.ru/api/posts
+
+login: your_login
+password: your_password
+
+# Добавляем информацию для создания нового поста
+new_post:
+  title: "Название вашего нового поста"
+  description: "Описание вашего нового поста"
+  content: "Содержание вашего нового поста"
+
+u_name: Roman
+u_email: RS@mail.ru
+content_contact: "Полезная информация о контакте"
